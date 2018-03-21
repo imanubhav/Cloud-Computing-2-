@@ -1,0 +1,4 @@
+In cloud computing model there are different stakeholder involved:cloud provider,service provider and customer.This leads to the following issus:
+1.each stakeholder has thier own security management processes used to define their assets,expected risks and thier impacts and how deal such risks.
+2.In multi tenant environment  the protection requirement for each tenant might differ, set of security requirement defined on a service should be maintained nad enforced on the service instances level and at runtime taking into the possibilty of changing requirements based on current customer need to mitigate new risks.
+3.Also,there is chance that some of customer are themslves the attackers,thus generating complex trust issues.
