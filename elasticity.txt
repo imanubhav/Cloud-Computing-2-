@@ -1,0 +1,4 @@
+Elasticity implies being able to scale up or down resources assigned to sevice based on current demand.
+1.This gives other new user to access to use previouly assigned resources.
+2.Elasticity contains a service placement engine that maintains list of availble resources from provider's offered resource pool.This list is used to allocate resources to service.
+3.This placement engines may include a migration strategy where services are migrated from one physical host to another or from cloud to another in order to meet demands and efficient utilization of the resources.
