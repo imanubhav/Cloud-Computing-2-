@@ -1,0 +1,13 @@
+By multi-tenancy cloud provide simultaneous secure hosting of services for various customers utilizing the same cloud infrastructure resources.
+1.It allows cloud provider to manage resource utilization more efficiently by partitioning a virtualized,shared infrastructure among various customers.
+2.Multi-tenancy is achieved by multiplexing the execution of VMs for potentially different user on the same physical server.
+3.Cloud is a type of shared resource so organization want to ensure that all tenant domains are properly isolated from each other and there is no leak from one tenant domain into the next.
+4.If we consider customer perspective shared infrastrucure could be a huge concern because of the possibilty of segregation of data among cloud customer.
+5.In cloud environment provider use VMs and a hypervisor to seperate cloud customers.
+6.In clouds resources are shared at network level,host level and application level.
+7.In multi-tenancy several aspects information system are shared including memory,program,networks and data.
+8.Users are seperated at avirtual level but not at hardware level.
+9.So,to deliver multi-tenancy there should be isolation among tenants data and location transparency whre tenants have no knowledge or control over the specific location of their resources to avoid planned attacks that attempts to co-locate with
+the victims assets.
+
+

@@ -1,0 +1,7 @@
+1.Dealing with cloud services include number of risk factors which include intellectual property,trade secrets,personal information that go i wrong hands.
+2.Enterprise may or may not have access or visibilty to storage devices at the cloud computing provider.
+3.In comparison to private cloud computing we have more security issues in public cloud computing.
+4.A public cloud is host of number of virtual machines,virtual machine monitors and supporting middleware.
+5.Security depends upon these objects as well as interaction between them.
+6.Security risk increases with number of users.
+7.Risk management of information security is the process in which study and respond to factors that may lead to a failure in the confidentiality,integrity or availbility of an information system.
