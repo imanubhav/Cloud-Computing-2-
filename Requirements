@@ -1,0 +1,91 @@
+---------Confidentiality----------
+1.refers to only authorized users or systems having the permission and ability to access protected data.
+it is to check that data is not being accessed by any unauthorized party.
+2.threat to a data increases by the increae in the number of parties, devices and applications involved, which leads to an increae i the 
+number of points of access.
+3.It can be done doing the encryption of data (symmetric or asymmetric algorithms and key management in case of symmetric cipher).
+4. also multi-tenancy presents a number of privacy and confidentiality threats.
+5.also reusable clouds may pose a serious threat.
+6.Data confidentiality could be breached
+7.Data confidentiality could be breached unintentionally, due to DATA REMANNCE. Data remanence is the
+residual representation of data that have been in some way nominally erased or removed. 
+8.Data remanence could lead to disclosure of private data of users.Suppose a malicious user can claim a large space
+ and scavenge(look into left out data) sensitive data.
+9.User authentication has to be strong which in turn is a solution for protecting larger objects such as objects incuding memory
+  ,devices,software,etc.
+ 
+ 
+ 
+ ----------Integrity------------------
+ 1.it means that assets can be modified by only authorized user in authorized ways. it can be data ,software,hardware.
+ 2.if data has been encrypted that does not gurantee that it has not been altered.
+ 3.ACID(atomicity,consistency,isolation ad durabilty) should imposed on all cloud computing delivery models.
+ 4.`Cloud providers must ensure that zones of servcices are isolated to prevent mass outages and should have rapid failure 
+    recovery mechanisms.
+ 5.Cloud provider should tell you what happen in case of any disaster.
+ 
+ 
+ 
+ -----------Availabilty------------
+ 1.it means the property of system being acessible and usable upon demand by an authorized entity.
+ 2.Denial of service attacks,equipment outages and natural disaster are all threats to it.
+ 3.it means that user can get service anytime upon demand.
+ 4.it also means to carry out operations even in case of any security breach.
+ 
+ 
+ 
+ 
+ -------------------Privacy------------------
+ 1.Privacy is a core issue in all challenge including need to protect identity information,policy components during integration,and tran
+ transaction histories.
+ 2.Also privacy policies depend upon laws of that country also.
+ 
+ 
+ 
+ ---------Trust----------------
+ 1.it is to convince user that a system is correct and secure.
+ 2.it depends on the cloud provider to enforce sufficient security policies to ensure the security of cloud.
+ 3.In case of private cloud it is not a big deal as infrastructure owner remains the data and process owner.
+ 
+ 
+ 
+ ---------Audit and compliance-------------
+ compliance:the word compliance is used to refer to industry-wide 
+ government regulations and rules that cite how data 
+ is managed and the need for organizations
+ to be in compliance with those regulations.
+ 1.it is the process of reviewing and examining the authorization records in order to assure compliance with predefined 
+ security standards and policies.
+ 2.it will help to detect any system breaches.
+ 3.in cloud systems used by customer the customer should be able to authorize and possibly monitor access to the system.
+ 4.Reliable,secure and tamper proof log collection and log storage is also necessary.
+ 5.cloud must have strong policies that ensure regulatory and legal issues and the customer needs to insect cloud providers policies
+ and practices to ensure their adequacy.
+ 6.Cloud computing model is based on SLAs.These SLAs should cover objectives related to performance,reliabilty and security.
+   It also the defines the penalties upon its violation.
+ 7.Compliance requirements are defined by regulatory bodies, governments, and legislature for different types of stored data.
+Sometimes these laws also govern the boundaries for storing data; for instance, EU doesn’t allow private data (such as
+email) to be stored outside EU , hence a cloud customer in EU can only use the provider that guarantees to store the
+customer’s data in EU countries! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
